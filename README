@@ -7,9 +7,10 @@ TV Quest allows one to
 
 INSTRUCTION: Download the source files from the links above. Make sure that all the TVQuest files are in the same folder and run the tvquest python file.
 
-On running the tvquest.py user would be asked to update the database in case of people with limited download limit or slower speed you can still provide yes and choose to update a smaller index of 60 channels.
+On running the tvquest.py user would be asked to update the database, In case of people with limited download limit or slower speed, you can still provide yes and choose to update a smaller index of 60 channels.
 Once the database is updated you can use for a week long period without updating.
 User is given few options on running the file and based on what the user is searching for he can make his choice. The interface is very intuitive you can easily get the hang of it when you use it couple of times.
+
 How it is implemented?
 
 The essential part of the project is the index building.Index of tv shows is built by crawling tvnow.in with results powered by whatsonindia. We go through 7 days worth of page listings The crawled index is stored as a dictionary where
