@@ -1,0 +1,17 @@
+TVQUEST: TV Show guide and information browser
+
+TV Quest allows one to 
+
+1. Surf through a channel and get the shows timings.
+2. Find out about Upcoming movies,Sports Shows and many more.
+
+INSTRUCTION: Download the source files from the links above. Make sure that all the TVQuest files are in the same folder and run the python file.
+
+The essential part of the project is the index building.Index of tv shows is built by crawling tvnow.in with results powered by whatsonindia. We go through 7 days worth of page listings The crawled index is stored as a dictionary where
+
+dict[showname] -> [[channel1, [time1, time2, time3, time4...], [channel2, [time1, time2, time3, time4...]... ]], showinfo, showcategory] . The dictionary is saved to file using the pickle module.
+
+The dictionary is later reversed for categorywise search and channelsearching. (We checked robots.txt for tvnow.in and they imposed no restrictions.)
+
+NOTE: *Tv show listings and show details of India only.
+
