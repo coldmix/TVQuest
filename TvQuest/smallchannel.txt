@@ -1,0 +1,250 @@
+(dp0
+S'18311'
+p1
+S'ETC Music'
+p2
+sS'18312'
+p3
+S'ETC Punjabi'
+p4
+sS'50'
+p5
+S'B4U Movies'
+p6
+sS'61'
+p7
+S'Zee Talkies'
+p8
+sS'18293'
+p9
+S'Channel News Asia'
+p10
+sS'67'
+p11
+S'DD1'
+p12
+sS'68'
+p13
+S'NDTV Profit'
+p14
+sS'80'
+p15
+S'Aaj Tak'
+p16
+sS'81'
+p17
+S'AXN'
+p18
+sS'18299'
+p19
+S'DD India'
+p20
+sS'24'
+p21
+S'Pix'
+p22
+sS'25'
+p23
+S'Discovery Channel'
+p24
+sS'26'
+p25
+S'Zee TV'
+p26
+sS'27'
+p27
+S'Zee Studio'
+p28
+sS'21'
+p29
+S'Star Gold'
+p30
+sS'22'
+p31
+S'MTV'
+p32
+sS'23'
+p33
+S'Nick'
+p34
+sS'18336'
+p35
+S'Music India'
+p36
+sS'44'
+p37
+S'CHANNEL V'
+p38
+sS'45'
+p39
+S'Colors'
+p40
+sS'28'
+p41
+S'Star Plus'
+p42
+sS'1'
+p43
+S'UTV Movies'
+p44
+sS'2'
+p45
+S'World Movies'
+p46
+sS'5'
+p47
+S'Star One'
+p48
+sS'4'
+p49
+S'NDTV 24x7'
+p50
+sS'7'
+p51
+S'NDTV India'
+p52
+sS'6'
+p53
+S'Star Sports'
+p54
+sS'9'
+p55
+S'Zoom'
+p56
+sS'8'
+p57
+S'Times Now'
+p58
+sS'18343'
+p59
+S'News24'
+p60
+sS'18383'
+p61
+S'Zee Business'
+p62
+sS'18320'
+p63
+S'India TV'
+p64
+sS'39'
+p65
+S'Zee News'
+p66
+sS'99'
+p67
+S'Disney Channel'
+p68
+sS'18387'
+p69
+S'Zee Smile'
+p70
+sS'18341'
+p71
+S'Neo Sports'
+p72
+sS'38'
+p73
+S'Animal Planet'
+p74
+sS'73'
+p75
+S'Sahara One'
+p76
+sS'72'
+p77
+S'CNBC TV18'
+p78
+sS'18340'
+p79
+S'Neo Cricket'
+p80
+sS'18344'
+p81
+S'NewsX'
+p82
+sS'59'
+p83
+S'Star World'
+p84
+sS'93'
+p85
+S'POGO'
+p86
+sS'18368'
+p87
+S'Ten Sports'
+p88
+sS'18289'
+p89
+S'B4U Music'
+p90
+sS'10'
+p91
+S'Max'
+p92
+sS'13'
+p93
+S'9x'
+p94
+sS'12'
+p95
+S'Zee Cinema'
+p96
+sS'15'
+p97
+S'Zee Cafe'
+p98
+sS'14'
+p99
+S'HBO'
+p100
+sS'17'
+p101
+S'Star News'
+p102
+sS'33'
+p103
+S'Cartoon Network'
+p104
+sS'32'
+p105
+S'BBC India'
+p106
+sS'30'
+p107
+S'Zee Premier'
+p108
+sS'37'
+p109
+S'IBN7'
+p110
+sS'36'
+p111
+S'Sun TV'
+p112
+sS'53'
+p113
+S'Star Vijay'
+p114
+sS'52'
+p115
+S'CNN IBN'
+p116
+sS'55'
+p117
+S'Zee Action'
+p118
+sS'74'
+p119
+S'Filmy'
+p120
+sS'18394'
+p121
+S'Sony Entertainment TV'
+p122
+sS'18360'
+p123
+S'Star Cricket'
+p124
+s.

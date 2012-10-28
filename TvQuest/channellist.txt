@@ -1,0 +1,962 @@
+(dp0
+S'18310'
+p1
+S'Enter 10'
+p2
+sS'18311'
+p3
+S'ETC Music'
+p4
+sS'18312'
+p5
+S'ETC Punjabi'
+p6
+sS'18313'
+p7
+S'Fox History And Entertainment'
+p8
+sS'18314'
+p9
+S'Gemini News'
+p10
+sS'18315'
+p11
+S'GOD TV'
+p12
+sS'18316'
+p13
+S'Gyandarshan'
+p14
+sS'18317'
+p15
+S'Home Shop 18'
+p16
+sS'18318'
+p17
+S'IBN Lokmat'
+p18
+sS'18319'
+p19
+S'Imagine Showbiz'
+p20
+sS'18320'
+p21
+S'India TV'
+p22
+sS'93'
+p23
+S'POGO'
+p24
+sS'24'
+p25
+S'Pix'
+p26
+sS'25'
+p27
+S'Discovery Channel'
+p28
+sS'26'
+p29
+S'Zee TV'
+p30
+sS'18322'
+p31
+S'Isai Aruvi'
+p32
+sS'20'
+p33
+S'The History Channel'
+p34
+sS'21'
+p35
+S'Star Gold'
+p36
+sS'22'
+p37
+S'MTV'
+p38
+sS'23'
+p39
+S'Nick'
+p40
+sS'95'
+p41
+S'Star Utsav'
+p42
+sS'28'
+p43
+S'Star Plus'
+p44
+sS'29'
+p45
+S'ESPN'
+p46
+sS'18324'
+p47
+S'Jaya Plus'
+p48
+sS'18420'
+p49
+S'Fox Traveller'
+p50
+sS'18421'
+p51
+S'Travel XP'
+p52
+sS'18288'
+p53
+S'Awaaz'
+p54
+sS'18388'
+p55
+S'Zee Sports'
+p56
+sS'18387'
+p57
+S'Zee Smile'
+p58
+sS'8'
+p59
+S'Times Now'
+p60
+sS'64'
+p61
+S'UTV News'
+p62
+sS'18289'
+p63
+S'B4U Music'
+p64
+sS'18383'
+p65
+S'Zee Business'
+p66
+sS'18382'
+p67
+S'Zee 24Taas'
+p68
+sS'18381'
+p69
+S'Zee 24 Ghanta'
+p70
+sS'18380'
+p71
+S'WIN TV'
+p72
+sS'18365'
+p73
+S'Tara News'
+p74
+sS'18364'
+p75
+S'Tara Muzik'
+p76
+sS'18367'
+p77
+S'Teja TV'
+p78
+sS'18366'
+p79
+S'TCM'
+p80
+sS'18361'
+p81
+S'Star Jalsa'
+p82
+sS'18360'
+p83
+S'Star Cricket'
+p84
+sS'18363'
+p85
+S'Sun News'
+p86
+sS'18362'
+p87
+S'Sun Music Channel'
+p88
+sS'18369'
+p89
+S'Tez'
+p90
+sS'18368'
+p91
+S'Ten Sports'
+p92
+sS'60'
+p93
+S'Zee Bangla'
+p94
+sS'59'
+p95
+S'Star World'
+p96
+sS'58'
+p97
+S'ETV Gujrati'
+p98
+sS'61'
+p99
+S'Zee Talkies'
+p100
+sS'55'
+p101
+S'Zee Action'
+p102
+sS'54'
+p103
+S'Toon Disney'
+p104
+sS'57'
+p105
+S'BBC Entertainment'
+p106
+sS'56'
+p107
+S'Star Majha'
+p108
+sS'51'
+p109
+S'Mi Marathi'
+p110
+sS'50'
+p111
+S'B4U Movies'
+p112
+sS'53'
+p113
+S'Star Vijay'
+p114
+sS'52'
+p115
+S'CNN IBN'
+p116
+sS'18399'
+p117
+S'WB'
+p118
+sS'18296'
+p119
+S'DD Bangla'
+p120
+sS'18419'
+p121
+S'BIG CBS SPARK'
+p122
+sS'18418'
+p123
+S'BIG CBS LOVE'
+p124
+sS'18417'
+p125
+S'BIG CBS PRIME'
+p126
+sS'18416'
+p127
+S'NE TV'
+p128
+sS'18415'
+p129
+S'Fox History And Traveller'
+p130
+sS'18414'
+p131
+S'Zee Telugu'
+p132
+sS'18413'
+p133
+S'DIVA Universal'
+p134
+sS'18412'
+p135
+S'Gemini Movies'
+p136
+sS'18411'
+p137
+S'Ten Action'
+p138
+sS'65'
+p139
+S'ETV Bangla'
+p140
+sS'18293'
+p141
+S'Channel News Asia'
+p142
+sS'67'
+p143
+S'DD1'
+p144
+sS'18376'
+p145
+S'Udaya Movies'
+p146
+sS'18354'
+p147
+S'Sangeet Bhojpuri'
+p148
+sS'88'
+p149
+S'ETV Rajasthan'
+p150
+sS'18375'
+p151
+S'Udaya 2'
+p152
+sS'18372'
+p153
+S'TV5 Monde Asia'
+p154
+sS'18373'
+p155
+S'TV9 Kannada'
+p156
+sS'18370'
+p157
+S'Trace'
+p158
+sS'18371'
+p159
+S'Trendz'
+p160
+sS'82'
+p161
+S'CBeebies'
+p162
+sS'83'
+p163
+S'Zee Marathi'
+p164
+sS'80'
+p165
+S'Aaj Tak'
+p166
+sS'81'
+p167
+S'AXN'
+p168
+sS'86'
+p169
+S'Kalaignar TV'
+p170
+sS'87'
+p171
+S'ETV2 Telugu News'
+p172
+sS'84'
+p173
+S'KTV'
+p174
+sS'85'
+p175
+S'ETV Oriya'
+p176
+sS'18350'
+p177
+S'Raj TV'
+p178
+sS'18351'
+p179
+S'Sahara MP'
+p180
+sS'18408'
+p181
+S'Imagine TV'
+p182
+sS'18409'
+p183
+S'Lumiere Movies'
+p184
+sS'3'
+p185
+S'SAB TV'
+p186
+sS'7'
+p187
+S'NDTV India'
+p188
+sS'18400'
+p189
+S'Bloomberg UTV'
+p190
+sS'18401'
+p191
+S'Disney XD'
+p192
+sS'18402'
+p193
+S'UTV Action'
+p194
+sS'18403'
+p195
+S'Bindass'
+p196
+sS'18404'
+p197
+S'Care World'
+p198
+sS'18405'
+p199
+S'Loksabha TV'
+p200
+sS'18406'
+p201
+S'Zee Classic'
+p202
+sS'18407'
+p203
+S'ZING'
+p204
+sS'18394'
+p205
+S'Sony Entertainment TV'
+p206
+sS'18358'
+p207
+S'Shalom TV'
+p208
+sS'27'
+p209
+S'Zee Studio'
+p210
+sS'34'
+p211
+S'Zee Music'
+p212
+sS'18343'
+p213
+S'News24'
+p214
+sS'18342'
+p215
+S'Nepal TV'
+p216
+sS'18341'
+p217
+S'Neo Sports'
+p218
+sS'18340'
+p219
+S'Neo Cricket'
+p220
+sS'18347'
+p221
+S'Raj Digital'
+p222
+sS'18346'
+p223
+S'PTC Punjabi'
+p224
+sS'18345'
+p225
+S'PTC News'
+p226
+sS'18344'
+p227
+S'NewsX'
+p228
+sS'18348'
+p229
+S'Raj Musix'
+p230
+sS'18392'
+p231
+S'National Geographic Ch.'
+p232
+sS'39'
+p233
+S'Zee News'
+p234
+sS'38'
+p235
+S'Animal Planet'
+p236
+sS'18359'
+p237
+S'Star Ananda'
+p238
+sS'33'
+p239
+S'Cartoon Network'
+p240
+sS'32'
+p241
+S'BBC India'
+p242
+sS'31'
+p243
+S'NDTV Imagine'
+p244
+sS'30'
+p245
+S'Zee Premier'
+p246
+sS'37'
+p247
+S'IBN7'
+p248
+sS'36'
+p249
+S'Sun TV'
+p250
+sS'35'
+p251
+S'VH1'
+p252
+sS'18395'
+p253
+S'Raj News'
+p254
+sS'18279'
+p255
+S'Amrita TV'
+p256
+sS'18278'
+p257
+S'Al Jazeera'
+p258
+sS'18277'
+p259
+S'Adithya TV'
+p260
+sS'18276'
+p261
+S'Aastha International'
+p262
+sS'18275'
+p263
+S'Aastha'
+p264
+sS'18274'
+p265
+S'Aakaash Bangla'
+p266
+sS'18273'
+p267
+S'9x M'
+p268
+sS'18272'
+p269
+S'3ABN'
+p270
+sS'18295'
+p271
+S'Daystar'
+p272
+sS'18294'
+p273
+S'Chutti TV'
+p274
+sS'18297'
+p275
+S'DD Bharati'
+p276
+sS'63'
+p277
+S'Bindaas'
+p278
+sS'18291'
+p279
+S'Care TV'
+p280
+sS'18290'
+p281
+S'BabyFirstTV'
+p282
+sS'66'
+p283
+S'ETV Kannada'
+p284
+sS'18292'
+p285
+S'CCC'
+p286
+sS'68'
+p287
+S'NDTV Profit'
+p288
+sS'18355'
+p289
+S'Sanskar'
+p290
+sS'18356'
+p291
+S'Sanskruthi TV'
+p292
+sS'18357'
+p293
+S'Satsang'
+p294
+sS'18299'
+p295
+S'DD India'
+p296
+sS'18298'
+p297
+S'DD Chandana'
+p298
+sS'18352'
+p299
+S'Sahara UP'
+p300
+sS'18353'
+p301
+S'Sangeet Bangla'
+p302
+sS'18410'
+p303
+S'TLC'
+p304
+sS'69'
+p305
+S'Udaya TV'
+p306
+sS'2'
+p307
+S'World Movies'
+p308
+sS'6'
+p309
+S'Star Sports'
+p310
+sS'4'
+p311
+S'NDTV 24x7'
+p312
+sS'18377'
+p313
+S'Udaya Varthegalu'
+p314
+sS'18286'
+p315
+S'ATN Bangla'
+p316
+sS'18287'
+p317
+S'Australia Network'
+p318
+sS'18284'
+p319
+S'Asianet Plus'
+p320
+sS'18285'
+p321
+S'Asianet Suvarna'
+p322
+sS'18282'
+p323
+S'Arirang'
+p324
+sS'18283'
+p325
+S'Asianet News'
+p326
+sS'18280'
+p327
+S'Angel TV'
+p328
+sS'18281'
+p329
+S'Animax'
+p330
+sS'18321'
+p331
+S'Indiavision'
+p332
+sS'90'
+p333
+S'Headlines Today'
+p334
+sS'18323'
+p335
+S'Jaya Max'
+p336
+sS'92'
+p337
+S'CNN South Asia'
+p338
+sS'18325'
+p339
+S'Kairali People'
+p340
+sS'94'
+p341
+S'Asianet'
+p342
+sS'97'
+p343
+S'Firangi'
+p344
+sS'96'
+p345
+S'ETV Marathi'
+p346
+sS'11'
+p347
+S'Star Movies'
+p348
+sS'10'
+p349
+S'Max'
+p350
+sS'13'
+p351
+S'9x'
+p352
+sS'12'
+p353
+S'Zee Cinema'
+p354
+sS'15'
+p355
+S'Zee Cafe'
+p356
+sS'14'
+p357
+S'HBO'
+p358
+sS'17'
+p359
+S'Star News'
+p360
+sS'16'
+p361
+S'National Geographic'
+p362
+sS'19'
+p363
+S'Sony Entertainment T'
+p364
+sS'18'
+p365
+S'Discovery Travel and Living'
+p366
+sS'18374'
+p367
+S'TV9 Telugu News'
+p368
+sS'89'
+p369
+S'Zee Kannada'
+p370
+sS'18384'
+p371
+S'Zee Gujarati'
+p372
+sS'18327'
+p373
+S'Kasturi'
+p374
+sS'62'
+p375
+S'Hungama'
+p376
+sS'98'
+p377
+S'Surya TV'
+p378
+sS'18338'
+p379
+S'Ne HiFi'
+p380
+sS'18339'
+p381
+S'Ne News'
+p382
+sS'18332'
+p383
+S'Manorama News'
+p384
+sS'18333'
+p385
+S'MH1'
+p386
+sS'18330'
+p387
+S'Maa TV'
+p388
+sS'18331'
+p389
+S'Makkal TV'
+p390
+sS'18336'
+p391
+S'Music India'
+p392
+sS'18337'
+p393
+S'Nat Geo Adventure'
+p394
+sS'18334'
+p395
+S'MH One Shraddha'
+p396
+sS'18335'
+p397
+S'Miracle'
+p398
+sS'18326'
+p399
+S'Kairali We'
+p400
+sS'48'
+p401
+S'ETV Bihar'
+p402
+sS'49'
+p403
+S'NDTV Lumiere'
+p404
+sS'46'
+p405
+S'Zee Clasic'
+p406
+sS'47'
+p407
+S'Zee Next'
+p408
+sS'44'
+p409
+S'CHANNEL V'
+p410
+sS'45'
+p411
+S'Colors'
+p412
+sS'42'
+p413
+S'MGM'
+p414
+sS'43'
+p415
+S'Eenadu TV'
+p416
+sS'40'
+p417
+S'ETV Urdu'
+p418
+sS'41'
+p419
+S'Kairali'
+p420
+sS'1'
+p421
+S'UTV Movies'
+p422
+sS'5'
+p423
+S'Star One'
+p424
+sS'18378'
+p425
+S'Vanitha TV'
+p426
+sS'9'
+p427
+S'Zoom'
+p428
+sS'18379'
+p429
+S'Vissa TV'
+p430
+sS'18307'
+p431
+S'DD Urdu'
+p432
+sS'18306'
+p433
+S'DD Sports'
+p434
+sS'18305'
+p435
+S'DD Sahyadri'
+p436
+sS'18304'
+p437
+S'DD Podhigai'
+p438
+sS'18303'
+p439
+S'DD Oriya'
+p440
+sS'18302'
+p441
+S'DD News'
+p442
+sS'18301'
+p443
+S'DD Malyalam'
+p444
+sS'18300'
+p445
+S'DD Loksabha'
+p446
+sS'18309'
+p447
+S'DW TV'
+p448
+sS'18308'
+p449
+S'Delhi Aajtak'
+p450
+sS'77'
+p451
+S'Star Pravah'
+p452
+sS'76'
+p453
+S'ETV Madhyapradesh'
+p454
+sS'75'
+p455
+S'NDTV Good Times'
+p456
+sS'74'
+p457
+S'Filmy'
+p458
+sS'73'
+p459
+S'Sahara One'
+p460
+sS'72'
+p461
+S'CNBC TV18'
+p462
+sS'71'
+p463
+S'Gemini TV'
+p464
+sS'70'
+p465
+S'Bindass Movies'
+p466
+sS'79'
+p467
+S'Jaya TV'
+p468
+sS'78'
+p469
+S'Hallmark Entertainment'
+p470
+sS'18329'
+p471
+S'Kolkata TV'
+p472
+sS'99'
+p473
+S'Disney Channel'
+p474
+sS'18386'
+p475
+S'Zee Punjabi'
+p476
+sS'18328'
+p477
+S'Kiran TV'
+p478
+sS'18385'
+p479
+S'Zee Jagaran'
+p480
+s.
