@@ -5,7 +5,7 @@
 # To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/
 # or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
 
-# Developed by Shashank S Rao, Rohit Varma, Sandeep R.V for Udacity CS101 contest.
+# Developed by Sandeep R.V, Shashank S Rao, Rohit Varma for Udacity CS101 contest.
 # 20th April 2012.
 
 # For help checkout the TVQuest Help Doc.
