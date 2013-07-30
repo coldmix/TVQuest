@@ -1,5 +1,7 @@
-TVQUEST: TV Show guide and information browser
+TVQUEST
 ===============================================
+
+## TV Show guide and information browser ##
 
 ### What is TVQuest? ###
 
